@@ -1,0 +1,18 @@
+{
+  "name": "hypixel-ts-library",
+  "version": "1.0.0",
+  "description": "Repository for Hypixel API TypeScript types and utilities",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["hypixel", "api", "typescript", "types", "minecraft", "utilities"],
+  "author": "Logan Johnson",
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^6.1.3",
+    "typescript": "^5.4.5"
+  }
+}
