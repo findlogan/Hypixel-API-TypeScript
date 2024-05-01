@@ -1,6 +1,6 @@
 {
   "name": "hypixel-ts-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Repository for Hypixel API TypeScript types and utilities",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
