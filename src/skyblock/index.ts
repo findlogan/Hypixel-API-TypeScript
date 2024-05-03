@@ -1,4 +1,4 @@
-export type { BazaarDataBase, BazaarDataItem } from "./bazaar.types.ts";
+export type { BazaarDataBase, BazaarDataItem } from "./types/bazaar.types.ts";
 export type {
     ProfilesByPlayerBase,
     ProfilesByPlayerProfiles,
@@ -9,4 +9,5 @@ export type {
     Banking,
     ObjectiveStatusWithItems,
     DungeonClass,
-} from "./profile.types.ts";
+} from "./types/profile.types.ts";
+export { getCatacombsLevel, getExpToNextLevel } from "./utils/levelcalculations";
