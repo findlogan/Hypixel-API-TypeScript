@@ -9,15 +9,22 @@ npm install hypixel-ts-library
 
 ## Basic Usage
 
-Proper documentation will eventually be completed. For now, this is the sample code and includes a small sub-set:
+Using the library is as simple as importing the types, then using those within your code:
 
 ```ts
 import type { BazaarDataItem, BazaarDataBase } from "hypixel-ts-library";
+// ...your code.
 ```
+
+Read the Quick Start on github for more information on the types available and how to use them:
+
+[https://github.com/findlogan/Hypixel-TS-Library/wiki](https://github.com/findlogan/Hypixel-TS-Library/wiki)
+
+It is also reccomended and encouraged to take a look into the source for yourself to see what is all included.
 
 ## Suggestions and Issues
 
-If you have suggestions, put them into issues for now. 
+If you have suggestions, put them into [issues](https://github.com/findlogan/Hypixel-TS-Library/issues) for now. 
 
 ## Origin of the Project
 
